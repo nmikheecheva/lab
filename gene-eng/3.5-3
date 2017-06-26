@@ -1,0 +1,15 @@
+LOCUS       3                        271 bp ds-DNA     linear       26-JAN-2017
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+ORIGIN
+        1 GGGGCCAACT TTCTTGTACA AAGTGGctag agtccgcaaa aatcaccagt ctctctctac
+       61 aaatctatct ctctctattt ttctccagaa taatgtgtga gtagttccca gataagggaa
+      121 ttagggttct tatagggttt cgctcatgtg ttgagcatat aagaaaccct tagtatgtat
+      181 ttgtatttgt aaaatacttc tatcaataaa atttctaatt cctaaaacca aaatccagtg
+      241 accgccaact ttattataca aagttgtccc c  
+//
